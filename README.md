@@ -6,14 +6,14 @@ A game begins with four disks placed in a square in the middle of the grid, two 
 up, the other two pieces with the dark side up, with same-colored disks on a diagonal with each other.
 
 -------------
-| |   | |   |
+| | | | | |
 -------------
-| | 2 | 1 | |
--------------
-| | 1 | 2 | |
--------------
-| |   |   | |
--------------
+| | 2 | 1 |  |
+--------------
+
+
+
+
 
 
 
