@@ -1,9 +1,18 @@
 #Reversi Tiny
 Reversi Tiny is a strategy board game for two players, played on a 4x4 board. There are 16 disks, which are dark on one side (player 1's color) and light on the other (player 2's color). At each turn, any disks of the opponent's color that are in one or more straight lines (horizontal, vertical or diagonal) and bounded by the disk just placed and another disk of the current players's color are turned over to the current player's color. The object of the game is to try to end up with the most disks of your color at the end of the game.
+
 Rules:
 A game begins with four disks placed in a square in the middle of the grid, two pieces with the light side
 up, the other two pieces with the dark side up, with same-colored disks on a diagonal with each other.
-
+-----------------
+| | | | |
+-----------------
+| | 2 | 1 | |
+-----------------
+| | 1 | 2 | |
+-----------------
+| | | | |
+-----------------
 
 
 
