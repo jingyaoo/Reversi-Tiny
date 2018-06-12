@@ -4,17 +4,9 @@ Reversi Tiny is a strategy board game for two players, played on a 4x4 board. Th
 Rules:
 A game begins with four disks placed in a square in the middle of the grid, two pieces with the light side
 up, the other two pieces with the dark side up, with same-colored disks on a diagonal with each other.
-
--------------
-| | | | | |
--------------
-| | 2 | 1 |  |
---------------
-
-
-
-
-
+The dark player moves rst and must place a piece with the dark side up on the board, in a position that
+there exists at least one straight occupied line (horizontal, vertical or diagonal) between the new piece and
+another dark piece, with one or more contiguous light pieces between them.
 
 
 Players take alternate turns. If one player can not make any valid move, play passes back to the other
